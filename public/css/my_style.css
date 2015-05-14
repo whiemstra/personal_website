@@ -1,0 +1,124 @@
+#main-links {
+  text-align: center;
+  word-spacing: 15px;
+  font-size: 14px;
+  font-family: verdana, sans-serif;
+  color: #ffffff;
+  text-decoration: none
+}
+
+#link-a {
+  color: #ffffff;
+  text-decoration: none
+}
+
+#link-b {
+  color: #ffffff;
+  text-decoration: none
+}
+
+
+
+/*
+  ===============================
+     IMAGES
+  ===============================
+*/
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.contact-icons {
+  height: 60px;
+  text-align: center;
+}
+
+.contact-icons a {
+  display: inline-block;
+}
+
+.icons {
+  width: 64px;
+  padding-right: 50px;
+}
+
+/*
+  ===============================
+     BACKGROUNDS
+  ===============================
+*/
+
+.background1 {
+  background-color: #04B4AE;
+}
+
+.background2 {
+  background-color: #086A87;
+}
+
+.background3 {
+  background-color: #04B4AE;
+}
+
+
+/*
+  ===============================
+     BODY
+  ===============================
+*/
+
+body {
+  background-color: #086A87;
+}
+
+p {
+  font-size: 18px;
+}
+
+ul {
+  font-family: "Georgia", serif;
+  color: #ffffff;
+}
+
+
+/*
+  ===============================
+     HEADERS
+  ===============================
+*/
+
+h1 {
+    padding-top: -20px;
+    font-size: 64px;
+    text-align: center;
+    font-family: verdana, sans-serif;
+    color: #ffffff;
+    text-decoration: none
+}
+
+h2 {
+    font-family: "Georgia", serif;
+}
+
+h3 {
+    font-family: georgia, serif;
+    color: #ffffff;
+    text-decoration: none
+}
+
+/*
+  ===============================
+     FOOTER
+  ===============================
+*/
+
+#footer {
+  float: left;
+  font-family: verdana, sans-serif;
+  font-size: 10px;
+}
+
+
